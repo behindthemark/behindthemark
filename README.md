@@ -7,7 +7,7 @@ I love building and breaking things, figuring out how a system works, and playin
 Currently learning Java for the sake of my sanity.
 
 # 💫 About Me:
-🔭 I’m currently working on my GitHub profile<br>🌱 I’m presently learning Java<br>👯 I’m looking to collaborate on Cybersecurity stuff.<br>📫 How to reach me: @behindthemark (Bluesky)<br>⚡ Fun fact: The first ever console that I played with was PlayStation 
+🔭 I’m currently working on my GitHub profile<br>🌱 I’m presently learning Java<br>👯 I’m looking to collaborate on Cybersecurity stuff.<br>📫 How to reach me: @behindthemark (Bluesky)<br>⚡ Fun fact: I love Playstation  
 
 
 ## 🌐 Socials:
